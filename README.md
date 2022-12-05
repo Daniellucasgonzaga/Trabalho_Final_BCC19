@@ -2,3 +2,5 @@
 Trabalho final de BCC
 
 [ROTEIRO](https://nbviewer.org/github/Daniellucasgonzaga/Trabalho_Final_BCC19/blob/main/Roteiro.ipynb)
+
+[APRESENTAÇÃO](https://nbviewer.org/github/Daniellucasgonzaga/Trabalho_Final_BCC19/blob/main/TrabalhoFinal.ipynb)
